@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-10-09T07:42:38.903193313Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-10-09T07:44:11.525758704Z",
     "templateType": "trip_d",
     "propertyId": "452c6a8c-db56-48db-970f-e30643505c45",
     "homepageId": "3f8da400-4b95-496f-b303-9adaf074a27e"
@@ -29,6 +29,9 @@
     "domain": "arnopension.com",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/10388",
     "ybsId": "79305",
+    "tripPropertyId": "10388",
+    "partnerType": "distributor_b",
+    "tripProviderName": "주식회사 다채움컴퍼니",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -455,10 +458,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "10388",
-    "partnerType": "distributor_b",
-    "tripProviderName": "주식회사 다채움컴퍼니"
+    ]
   },
   "rooms": [
     {
