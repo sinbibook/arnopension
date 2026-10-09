@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-09-10T08:17:23.023860845Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-09T07:42:38.903193313Z",
     "templateType": "trip_d",
     "propertyId": "452c6a8c-db56-48db-970f-e30643505c45",
     "homepageId": "3f8da400-4b95-496f-b303-9adaf074a27e"
@@ -362,8 +362,8 @@
       {
         "thumbnail": [
           {
-            "id": "2776d3a0-860b-464c-905f-92b8dc8ae92f",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/i5zJjAVoDGy7.jpg",
+            "id": "e4d47504-1041-4a69-8521-51b4e9c56190",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/fFD0XVdBxszw.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -372,17 +372,25 @@
         ],
         "exterior": [
           {
-            "id": "2c4c78ac-9793-41ef-890a-15071149d56d",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/1y9vVbrXqlT6.jpg",
+            "id": "c52d5b81-81d7-43c0-97fd-dbcf9bdafcdd",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/qmXnwRc1dlV5.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "c52d5b81-81d7-43c0-97fd-dbcf9bdafcdd",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/qmXnwRc1dlV5.jpg",
+            "id": "0bfb441e-981f-458d-b977-49a6bca64541",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/xNVSjCX2MOBl.jpg",
             "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2776d3a0-860b-464c-905f-92b8dc8ae92f",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/i5zJjAVoDGy7.jpg",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -390,14 +398,6 @@
           {
             "id": "17d62bd4-b43c-4783-8fbe-ace678cef3d3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/Brxu5cEUTSav.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "e4d47504-1041-4a69-8521-51b4e9c56190",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/fFD0XVdBxszw.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
@@ -428,17 +428,9 @@
             "blockId": null
           },
           {
-            "id": "0bfb441e-981f-458d-b977-49a6bca64541",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/xNVSjCX2MOBl.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
             "id": "3f2c353b-9cd0-4b61-bfd2-b8463d55b0e3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/7HeI89d4V6S3.jpg",
-            "sortOrder": 10,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -446,6 +438,14 @@
           {
             "id": "ab625892-c9f1-4bef-9b87-8075de1795d9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/QXT1og9x2FiL.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2c4c78ac-9793-41ef-890a-15071149d56d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/22/1y9vVbrXqlT6.jpg",
             "sortOrder": 11,
             "description": "",
             "isSelected": true,
@@ -455,7 +455,10 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ]
+    ],
+    "tripPropertyId": "10388",
+    "partnerType": "distributor_b",
+    "tripProviderName": "주식회사 다채움컴퍼니"
   },
   "rooms": [
     {
@@ -2526,8 +2529,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "8405580e-2534-4426-ab53-d79939c22269",
-                    "url": "https://arnopension.com/assets/images/rooms/layout.webp",
+                    "id": "01a11f9d-2d7c-7916-9ba8-82d1002d6b3a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/3f8da400-4b95-496f-b303-9adaf074a27e/layout_map_about/1791531755817-yoijyxxz7j.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -2539,6 +2542,9 @@
               "enabled": true
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
